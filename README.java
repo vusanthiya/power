@@ -7,7 +7,7 @@ public class Power
     while(b!=0)
     { 
       c=c*a;
-      --c;
+      --b;
      }
     System.out.println("Power a given number is:" + c);
    }
